@@ -40,13 +40,13 @@
         "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic8.png"
     },
     {
-        "name": "pic10",
-        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic10.jpg",
-        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic10.png"
-    },
-    {
         "name": "pic11",
         "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic11.jpg",
         "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic11.png"
+    },
+    {
+        "name": "pic12",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic12.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic12.png"
     }
 ]
