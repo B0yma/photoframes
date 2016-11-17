@@ -1,0 +1,47 @@
+[
+    {
+        "name": "pic",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframe/master/hds/pic.png"
+    },
+    {
+        "name": "pic2",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic2.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic2.png"
+    },
+    {
+        "name": "pic3",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic3.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic3.png"
+    },
+    {
+        "name": "pic4",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic4.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic4.png"
+    },
+    {
+        "name": "pic5",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic5.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic5.png"
+    },
+    {
+        "name": "pic6",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic6.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic6.png"
+    },
+    {
+        "name": "pic7",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic7.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic7.png"
+    },
+    {
+        "name": "pic8",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic8.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic8.png"
+    },
+    {
+        "name": "pic10",
+        "thumburl": "https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic10.jpg",
+        "fullimage": "https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic10.png"
+    }
+]
