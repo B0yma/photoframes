@@ -1,0 +1,17 @@
+https://www.compilejava.net
+public static void main(String[] args)
+  {
+    System.out.print(getJSONText(1,14));
+  }
+  
+  private static String getJSONText(int a,int b)
+  {
+   String s="";
+    for(int i=a;i<b;i++){
+      s=s+"{\"name\":\"pic"+i+"\",\"thumburl\":\"https://raw.githubusercontent.com/B0yma/photoframes/master/thumbs/pic"+i+".jpg\",\"fullimage\":\"https://raw.githubusercontent.com/B0yma/photoframes/master/hds/pic"+i+".png\"},";
+    }
+   return s;
+  }
+  
+  https://jsonformatter.curiousconcept.com
+  
